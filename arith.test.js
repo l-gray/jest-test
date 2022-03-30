@@ -13,5 +13,5 @@ test('3 * 4 = 12', () => {
 //});
 
 test('8 / 4 = 2', () => {
-  expect(div(8, 4)).toBe(3);
+  expect(div(8, 4)).toBe(2);
 });
